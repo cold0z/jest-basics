@@ -7,7 +7,6 @@ test("null", ()=>{
     expect(i).toBeNull();
     expect(i).toBeDefined();
     expect.assertions(2); //expecting test 
-
 }); 
 
 const animals = ['dog','cat'];
